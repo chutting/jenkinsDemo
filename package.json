@@ -1,0 +1,11 @@
+{
+  "name": "jenkinsDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chutting/jenkinsDemo.git",
+  "author": "Chu Tingting <tingting.chu@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
